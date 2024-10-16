@@ -1,2 +1,3 @@
-# jped-ui
-ui for jped
+# photography-site
+
+Hi there! This is a simple and multipage photography website.
